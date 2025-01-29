@@ -1,0 +1,20 @@
+{
+  "name": "geometry-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite", 
+    "build": "vite build",
+    "preview": "vite preview",
+    "build:ts": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dean salleyman",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.0.7",
+    "dat.gui": "^0.7.9",
+    "@types/dat.gui": "^0.7.13"
+  }
+}
